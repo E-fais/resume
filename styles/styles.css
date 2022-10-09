@@ -83,6 +83,13 @@ a{
 #social-lists a:hover{
     color:var(--mainLinkColor)
 }
+.mail{
+   color: var(--mainTextColor);
+   transition:0.3s;
+}
+.mail:hover{
+    color:var(--mainLinkColor)
+}
 #tech-stack-wrapper{
     display: flex;
     flex-wrap: nowrap;
