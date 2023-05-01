@@ -69,6 +69,10 @@ a{
 #email{
     color: var(--mainTextColor);
 }
+#mob{
+    font-size: medium;
+    margin-top: -0.8rem;
+}
 #social-lists{
     display: flex;
     justify-content:space-around;
